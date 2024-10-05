@@ -115,7 +115,7 @@ function checkAuth(req, res, next) {
     }
 }
 
-app.get('/console', checkAuth, (req, res) => {
+app.get('/console', (req, res) => {
     res.sendFile(path.join(__dirname, 'dashboard', '3028.html'));
 });
 
