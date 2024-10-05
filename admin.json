@@ -1,7 +1,7 @@
 {
-  "prefix": "!",
+  "prefix": ".",
   "adminUIDs": [
-    "Global Administrator UID"
+    "100065445284007"
   ],
   "moderatorUIDs": [
     "MODERATOR UID",
