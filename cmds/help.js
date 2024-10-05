@@ -46,7 +46,7 @@ module.exports = {
             return !command.hide;
         });
 
-        const commandsPerPage = 40;
+        const commandsPerPage = 30;
         const totalPages = Math.ceil(visibleCommandFiles.length / commandsPerPage);
         let page = parseInt(target[0]);
 
