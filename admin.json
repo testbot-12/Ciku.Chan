@@ -1,5 +1,5 @@
 {
-  "prefix": ".",
+  "prefix": "/",
   "adminUIDs": [
     "100065445284007"
   ],
@@ -8,9 +8,9 @@
     "",
     ""
   ],
-  "botName": "Your botName",
-  "ownerName": "Your Name",
-  "facebookLink": "Facebook link",
+  "botName": "Miuki Mei",
+  "ownerName": "Sakibin Sinha",
+  "facebookLink": "https://m.facebook.com/imsakibin007",
   "resend": false,
   "notilogs": true,
   "appstate": "./appstate.json",
