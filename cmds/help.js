@@ -30,7 +30,7 @@ module.exports = {
                 const helpMessage = `╭─『 ${commandInfo.name || "Unknown"} 』\n` +
                     `│✧ Name: ${commandInfo.name || "Unknown"}\n` +
                     `│✧ Permission: ${permissionText}\n` +
-                    `│✧ Developer: ${commandInfo.dev || "Unknown"}\n` +
+                    `│✧ Developer: Sakibin Sinha\n` +
                     `│✧ Cooldown: ${commandInfo.cooldowns || "Unknown"} seconds\n` +
                     `│✧ Description: ${commandInfo.info || "Unknown"}\n` +
                     `│✧ Need Prefix: ${commandInfo.onPrefix !== undefined ? commandInfo.onPrefix : "Unknown"}\n` +
