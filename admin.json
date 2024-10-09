@@ -1,24 +1,24 @@
 {
   "prefix": "/",
   "adminUIDs": [
-    "100065445284007"
+    "100000436645880"
   ],
   "moderatorUIDs": [
-    "100065445284007",
+    "100000436645880",
     "",
     ""
   ],
-  "botName": "Miuki Mei",
-  "ownerName": "Sakibin Sinha",
-  "facebookLink": "https://m.facebook.com/imsakibin007",
+  "botName": "Ciku_Cham🌟",
+  "ownerName": "Shahriar Ahammed Limon",
+  "facebookLink": "https://m.facebook.com/shahriarahammedlimonx",
   "resend": false,
   "notilogs": true,
   "appstate": "./appstate.json",
   "restart": true,
   "restartTime": 50,
   "loginpanel": {
-    "user": "xakibin123",
-    "password": "#SinhaDon90",
-    "passcode": "14133505"
+    "user": "",
+    "password": "",
+    "passcode": ""
   }
 }
